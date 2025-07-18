@@ -35,7 +35,7 @@ Create a new post.
 
 **Request Body:**
 
-```json
+
 {
   "username": "john_doe",
   "content": "This is a new post",
