@@ -2,7 +2,7 @@
 
 ---
 
-```markdown
+
 # 📸 Social Media API (Spring Boot + MySQL)
 
 This is a simple **RESTful API** for managing social media posts, built using **Spring Boot** and **MySQL**.
