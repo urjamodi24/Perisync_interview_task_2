@@ -25,7 +25,7 @@ This is a simple **RESTful API** for managing social media posts, built using **
 
 ```
 
-[http://localhost:8080/api/posts](http://localhost:8080/api/posts)
+http://localhost:8080/api/posts
 
 ````
 
